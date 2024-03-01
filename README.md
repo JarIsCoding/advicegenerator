@@ -1,3 +1,9 @@
+Jared Ly
+3/1/2024
+Advice Generator
+Peer reviewer-
+Peer Review-
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
