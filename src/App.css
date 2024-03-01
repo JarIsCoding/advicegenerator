@@ -1,5 +1,50 @@
 .App {
   text-align: center;
+  padding-top: 17%;
+}
+
+.bg{
+  background-color: #202632;
+}
+
+.cardbg{
+  background-color: #313a49;
+}
+
+.lgsize{
+  margin-left: 30%;
+  margin-right: 30%;
+}
+
+.smsize{
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.textcolor{
+  color: #cee3e8;
+}
+
+.text2color{
+  color: #53ffab;
+}
+
+.gray{
+  color:darkgrey
+}
+
+.btncolor{
+  background-color: #53ffab;
+  border-radius: 60px;
+  padding-left: 22px !important;
+  padding-right: 22px !important;
+  padding-top: 21px !important;
+  padding-bottom: 21px !important;
+
+}
+
+.padbot{
+  padding-bottom: 80px;
 }
 
 .App-logo {
