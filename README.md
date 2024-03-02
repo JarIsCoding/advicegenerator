@@ -1,8 +1,8 @@
 Jared Ly
 3/1/2024
 Advice Generator
-Peer reviewer-
-Peer Review-
+Peer Reviewer: Aidan Younathan
+Peer Review: Site works good and looks like the design. Good Job!
 
 # Getting Started with Create React App
 
@@ -50,6 +50,3 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
-
-Peer Reviewer: Aidan Younathan
-Peer Review: Site works good and looks like the design. Good Job!
